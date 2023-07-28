@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 🔭 Estudante de Análise e desenvolvimento de sistemas<br>🌱 HTML e CSS<br>💬 Estudando lógica de programação com Javascript<br>⚡ Aprendendo sobre Git
 
 
